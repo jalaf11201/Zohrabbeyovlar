@@ -1,0 +1,51 @@
+/* html {
+} */
+
+/* .time_container {
+} */
+
+.word {
+    font-size: 5rem;
+}
+
+.image {
+    width: 8rem;
+    height: 8rem;
+    margin: 0 1rem;
+}
+
+.container {
+    margin: 2rem 0;
+}
+
+.big_image_container {
+    margin: 0 1rem 0 2rem;
+    display: flex;
+    align-items: center;
+}
+
+.big_image {
+    width: 15rem;
+    height: 15rem;
+}
+
+.year {
+    font-size: 3rem;
+}
+
+.text_container {
+    margin: 0.5rem;
+}
+
+.photo_container {
+    margin: 0 1rem 3rem 0;
+}
+
+.photo {
+    width: 6rem;
+    height: 8rem;
+}
+
+.bg_line {
+    height: 2rem;
+}

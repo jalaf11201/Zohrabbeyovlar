@@ -1,0 +1,43 @@
+.time_container {
+    flex-direction: column;
+    align-items: center;
+}
+
+.hidden {
+    display: block;
+}
+
+.word {
+    font-size: 4rem;
+}
+
+.con {
+    margin: 1rem;
+}
+
+.container {
+    flex-direction: column;
+    margin: 3rem;
+    align-items: center;
+}
+
+.big_image_container {
+    margin: 0;
+}
+
+.displayed {
+    display: none;
+}
+
+.con_impor {
+    margin: 2rem 0.5rem;
+}
+
+.photo_container {
+    margin: 2rem;
+}
+
+.photo {
+    width: 8rem;
+    height: 10rem;
+}
