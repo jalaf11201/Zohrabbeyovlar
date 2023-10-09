@@ -7,7 +7,7 @@
 
 @font-face {
     font-family: secret;
-    src: url(font/top_secret.ttf);
+    src: url(top_secret.ttf);
 }
 
 span {
@@ -34,7 +34,7 @@ span {
 body {
     margin: 1rem;
     background-color: #f8f1e1;
-    background-image: url("image/country.jpg"), url("image/bg.jpg");
+    background-image: url("country.jpg"), url("bg.jpg");
     background-repeat: no-repeat, repeat;
     /* background-color: rgb(255, 230, 193); */
 }
